@@ -160,6 +160,13 @@ figure {
     margin-right: 60px;
 }
 
+.avatar img {
+    border-radius: 10%;
+    float: right;
+    margin: -8px 0 0 16px;
+    width: 150px;
+}
+
 .footer {
     clear: both;
     margin-top: 100px;
