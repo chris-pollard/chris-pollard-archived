@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2021-05-24T15:58:56+10:00
-draft: true
+draft: false
 ---
 
 Hello hello hello this si an example.

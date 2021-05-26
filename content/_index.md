@@ -1,14 +1,14 @@
 ---
-title: "Christopher Pollard"
+title: "Home"
 date: 2021-05-17T21:57:35+10:00
-draft: true
+draft: false
 ---
 
 # About Me
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="avatar.jpg" alt="avatar">}}
 
-Thoughtful and energetic full-stack developer, currently studying software engineering, transforming a career full of time, budget and people management into one managing code and its behaviour. [[more...](/about)]
+Thoughtful and energetic full-stack developer, currently studying software engineering, transforming a career full of time, budget and people management into one managing code and its behaviour. [[more...](about)]
 
 
 
