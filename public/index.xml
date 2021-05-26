@@ -20,5 +20,14 @@ theme = &amp;quot;hugo-theme-console&amp;quot; License Copyright © 2020 Marcin 
 The theme is released under the MIT License. Check the original theme license for additional licensing information.</description>
     </item>
     
+    <item>
+      <title>My First Post</title>
+      <link>https://chris-pollard.github.io/chris-pollard/posts/my-first-post/</link>
+      <pubDate>Mon, 24 May 2021 15:58:56 +1000</pubDate>
+      
+      <guid>https://chris-pollard.github.io/chris-pollard/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
