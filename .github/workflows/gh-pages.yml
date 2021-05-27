@@ -11,10 +11,17 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
-      
-      - name: Update theme
-        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
-        run: git submodule update --init --recursive
+
+      - uses: actions/cache@v2
+        with:
+          path: /tmp/hugo_cache
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
+
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -27,7 +34,7 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        # if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
