@@ -160,6 +160,8 @@ figure {
     margin-right: 60px;
 }
 
+
+
 .footer {
     clear: both;
     margin-top: 100px;
@@ -212,6 +214,13 @@ figure {
     width: 130px;
     z-index: 400;
     padding-top: 0;
+}
+
+.avatar > img {
+    border-radius: 10%;
+    float: right;
+    margin: -8px 0 0 16px;
+    width: 150px;
 }
 
 @media only screen and (max-width: 850px) {
