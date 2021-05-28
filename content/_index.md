@@ -8,6 +8,9 @@ draft: true
 
 {{< figure class="avatar" src="avatar.jpg" alt="avatar">}}
 
+
+
+
 Thoughtful and energetic full-stack developer, currently studying software engineering, transforming a career full of time, budget and people management into one managing code and its behaviour. [[more...](about)]
 
 
@@ -16,17 +19,16 @@ Thoughtful and energetic full-stack developer, currently studying software engin
 In chronological order:
 
 **Tic Tac Toe** [[view source](https://github.com/chris-pollard/tic-tac-toe)]
-
-> *Used JavaScript, HTML and CSS to create a space-themed game noughts and crosses.*
+*Used JavaScript, HTML and CSS to create a space-themed game noughts and crosses.*
 
 **Bitfolio** [[view source](https://github.com/chris-pollard/bitfolio)]
-Used a postgreSQL database, Ruby, sinatra server, HTML, CSS and JavaScript to create a CRUD application. Deployed on a heroku server.
+*Used a postgreSQL database, Ruby, sinatra server, HTML, CSS and JavaScript to create a CRUD application. Deployed on a heroku server.*
 
 **Train route** [[view source](https://github.com/chris-pollard/train-line)]
-> *Used JavaScript to create a front-end trip planner.*
+*Used JavaScript to create a front-end trip planner.*
 
 **Bank ATM** [[view source](https://github.com/chris-pollard/bank-atm)]
-> *Used JavaScript to create a simple Automated Teller Machine (ATM).*
+*Used JavaScript to create a simple Automated Teller Machine (ATM).*
 
 
 # Skills
