@@ -74,7 +74,7 @@ body {
     font-family: var(--font-stack);
     font-size: var(--global-font-size);
     background-color: #fff;
-    margin-bottom: 75px;
+    margin-bottom: 15px;
 }
 
 h1,
@@ -229,6 +229,19 @@ figure {
         overflow: hidden;
         display: inline-block;
     } */
+
+    .avatar > img {
+        width: 90px;
+    }
+
+    .screen-shot {
+        margin-bottom: 2em;
+    }
+
+    .container,.container-fluid {
+        margin:0 auto;
+        padding:0 calc(var(--global-space) * 2)
+    }
 
     .terminal-nav {
         align-items: flex-start;
