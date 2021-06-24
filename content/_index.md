@@ -13,7 +13,7 @@ draft: false
 
 I'm turning a career full of task and requirements management into one of writing and managing code as a full-stack software developer. 
 
-One of my interests is in Bitcoin development and learning more about distributed peer-to-peer networks. Since 2017, I've been an observer of and participant in the Bitcoin network. The idea that a peer-to-peer network of computer nodes can store and secure a global ledger and facilitate digital scarcity (double-spend problem) continues to fascinate me. Lately, I've been hosting a full node and experimenting with the Lightning network, a layer 2 network facilitating real-time payments.
+One of my interests is in Bitcoin development and learning more about distributed peer-to-peer networks. Since 2017, I've been an observer of and participant in the Bitcoin network. The idea that a peer-to-peer network of computer nodes can create digital scarcity (double-spend problem) continues to fascinate me. Recently I started hosting a full node and experimenting with the [Lightning Network](https://lightning.network/), a layer 2 network facilitating real-time payments.
 
 
 # Portfolio 
@@ -37,7 +37,7 @@ Used JavaScript, HTML and CSS to create a *jungle-themed* game of noughts and cr
 {{< figure class="screen-shot" src="screen_shot_tic_tac.png" alt="tic tac toe">}}
 
 
-**Bank ATM** [[open app](chris-pollard.github.io/bank-atm/)] [[view source code](https://github.com/chris-pollard/bank-atm)]
+**Bank ATM** [[open app](https://chris-pollard.github.io/bank-atm/)] [[view source code](https://github.com/chris-pollard/bank-atm)]
 
 Used JavaScript to create a simple Automated Teller Machine (ATM).
 
