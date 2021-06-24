@@ -7,27 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 May 2021 21:57:35 +1000</lastBuildDate><atom:link href="https://chris-pollard.github.io/chris-pollard/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://chris-pollard.github.io/chris-pollard/about/</link>
-      <pubDate>Mon, 24 May 2021 15:58:56 +1000</pubDate>
-      
-      <guid>https://chris-pollard.github.io/chris-pollard/about/</guid>
-      <description>Hello hello hello this si an example.
-Installation { &amp;#34;firstName&amp;#34;: &amp;#34;John&amp;#34;, &amp;#34;lastName&amp;#34;: &amp;#34;Smith&amp;#34;, &amp;#34;age&amp;#34;: 25 } See the Hugo documentation for more information.
-Configuration Set theme parameter in your config file:
-theme = &amp;quot;hugo-theme-console&amp;quot; License Copyright © 2020 Marcin Mierzejewski
-The theme is released under the MIT License. Check the original theme license for additional licensing information.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://chris-pollard.github.io/chris-pollard/posts/my-first-post/</link>
-      <pubDate>Mon, 24 May 2021 15:58:56 +1000</pubDate>
-      
-      <guid>https://chris-pollard.github.io/chris-pollard/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
