@@ -15,6 +15,8 @@ I'm turning a career full of task and requirements management into one of writin
 
 One of my interests is in Bitcoin development and learning more about distributed peer-to-peer networks. Since 2017, I've been an observer of and participant in the Bitcoin network. The idea that a peer-to-peer network of computer nodes can create digital scarcity (double-spend problem) continues to fascinate me. Recently I started hosting a full node and experimenting with the [Lightning Network](https://lightning.network/), a layer 2 network facilitating real-time payments.
 
+In my spare time, I like to make up silly songs and play guitar with my son. If I have more spare time, I love doing yoga and eating hot chips.
+
 
 # Portfolio 
 
