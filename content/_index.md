@@ -24,6 +24,8 @@ In my spare time, I like to make up silly songs and play guitar with my son. If 
 
 Created a micro-blogging social networking app using Ruby and a Sinatra framework, hosted on Heroku.
 
+**To demo, use 'alex' (email) and 'demo' (password)**
+
 {{< figure class="screen-shot" src="screen_shot_hummer.png" alt="Hummer Social">}}
 
 **Bitfolio app** [[open app](https://bitfolio-crspy.herokuapp.com/)] [[view source code](https://github.com/chris-pollard/bitfolio)]
