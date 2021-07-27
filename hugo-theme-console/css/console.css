@@ -38,7 +38,7 @@
     --global-line-height: 1.6em;
     --page-width: 70em;
     --display-h1-decoration: 1;
-    --code-bg-color: #fff;
+    --code-bg-color: #dadee7;
 }
 
 @media only screen and (max-width: 850px) {
@@ -73,7 +73,7 @@
 body {
     font-family: var(--font-stack);
     font-size: var(--global-font-size);
-    background-color: #fff;
+    background-color: #e6e9ef;
     margin-bottom: 15px;
 }
 
