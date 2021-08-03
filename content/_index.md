@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: 2021-05-17T21:57:35+10:00
+date: 2021-07-17T21:57:35+10:00
 draft: false
 ---
 
@@ -17,7 +17,7 @@ One of my interests is in Bitcoin development and learning more about distribute
 In my spare time, I like to make up silly songs and play guitar with my son. If I have more spare time, I love doing yoga and eating hot chips (not always in that order).
 
 
-# Portfolio 
+# Projects
 
 **Text Editors in React** [[open app](https://react-text-editors.surge.sh/)] [[view source code](https://github.com/chris-pollard/react-text-editors)]
 
